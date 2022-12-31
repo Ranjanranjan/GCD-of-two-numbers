@@ -23,7 +23,7 @@ RegisterNumber:  22007928
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![OUTPUT](./images1/gcd.PNG)
 ![OUTPUT](./images/Screenshot%20from%202022-12-31%2018-56-22.png)
 
 
