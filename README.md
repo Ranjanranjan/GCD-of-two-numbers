@@ -17,13 +17,14 @@ To write a program to find the GCD of two numbers using function.
 ```
 /*
 Program to find the gcd of two number using function.
-Developed by: 
-RegisterNumber:  
+Developed by: KAVINRAJA.D
+RegisterNumber:  22007928
 */
 ```
 
 ## Output:
 ![gcd of two number](gcd.png)
+![OUTPUT](./images/Screenshot%20from%202022-12-31%2018-56-22.png)
 
 
 ## Result:
